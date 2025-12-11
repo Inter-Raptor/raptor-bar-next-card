@@ -1,5 +1,6 @@
 {
-  "name": "Raptor Bar Next Car",
+  "name": "raptor bar next card",
+  "content_in_root": true,
   "render_readme": true,
   "filename": "raptor-bar-next-card.js"
 }
