@@ -66,27 +66,27 @@ Think of it as a **supercharged bar-card**, fully aligned with the Raptor family
 A quick visual overview of what **Raptor Bar Next Card** can do.
 
 ### 🔌 Lights & switches
-![Lights & switches](docs/raptor-bar-next-lights-switches.gif)
+![Lights & switches](raptor-bar-next-lights-switches.gif)
 
 ---
 
 ### 🎨 Lights – inside labels & patterns
-![Lights – inside & patterns](docs/raptor-bar-next-lights-inside-patterns.gif)
+![Lights – inside & patterns](raptor-bar-next-lights-inside-patterns.gif)
 
 ---
 
 ### 🌡️ Temperatures with severity
-![Temperatures severities](docs/raptor-bar-next-temperatures-severity.gif)
+![Temperatures severities](raptor-bar-next-temperatures-severity.gif)
 
 ---
 
 ### 🧍 Presence & distance from home
-![Presence & distance](docs/raptor-bar-next-presence-distance.gif)
+![Presence & distance](raptor-bar-next-presence-distance.gif)
 
 ---
 
 ### 🪟 Covers & HVAC thermostats
-![Covers & Thermostats](docs/raptor-bar-next-covers-thermostats.gif)
+![Covers & Thermostats](raptor-bar-next-covers-thermostats.gif)
 
 🔥 These examples come from the demo Lovelace view included below.
 ---
