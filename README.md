@@ -3,7 +3,8 @@
 Modern multi-bars card for Home Assistant, with sliders, severity colors and the full **Raptor theme engine**.  
 Think of it as a **supercharged bar-card**, fully aligned with the Raptor family (Orbit, Grid, Todo Hub, …).
 
-![Raptor Bar Next Card demo](docs/raptor-bar-next-card-demo.gif)
+![Raptor Bar Next Card demo](raptor-bar-next-card-demo.gif)
+
 
 > The animation above is built with the `sections` view type and the demo configuration provided below.
 
